@@ -28,10 +28,11 @@
 //  +,
 //  +=
 
-// let first_name = "Sachin";
-// let last_name = "Saini";
+let first_name = "Sachin";
+let last_name = "Saini";
 
-// first_name += " " + last_name;
+first_name + " " + last_name;
+
 // // let fullname = first_name + " " + last_name;
 
 // console.log(first_name);
