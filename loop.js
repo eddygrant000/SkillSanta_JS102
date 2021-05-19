@@ -73,3 +73,19 @@
 //     attempt++
 // }
 // https://quizizz.com/join?gc=382118
+// (initi, condition, counter)
+
+
+// for (initialazation; condition; counter){
+//    block1 
+//    block2
+//    block3
+// }
+// let count;
+//               0   < 5 : true
+
+// for (let count = 0; count < 5; count++) {
+//     document.write(count + "<br>");
+// }
+
+// for ==> in , of
